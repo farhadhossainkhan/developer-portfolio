@@ -13,3 +13,9 @@ h3{
 .sky-blue{
     color:skyblue
 }
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
