@@ -20,6 +20,7 @@ h3{
 }
 section{
     display: flex;
+    margin-bottom: 200px;
 }
 .half-width{
     width: 80%;
@@ -27,6 +28,7 @@ section{
 }
 .half-width img{
     width: 80%;
+    margin-top: -20px;
 }
 .link-button{
  text-decoration: none;
@@ -39,3 +41,4 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
