@@ -24,11 +24,8 @@ h3{
 }
 .half-width{
     width: 80%;
-    padding-left: 3%;
-}
-.half-width img{
-    width: 80%;
-    margin-top: -20px;
+    padding: 10px;
+    box-shadow: 5px 10px yellowgreen;
 }
 .link-button{
  text-decoration: none;
